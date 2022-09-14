@@ -1,13 +1,13 @@
-package com.algalog;
+package com.algaworks.algalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlgalogApiApplication {
+public class AlgaApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlgalogApiApplication.class, args);
+		SpringApplication.run(AlgaApiApplication.class, args);
 	}
 
 }
